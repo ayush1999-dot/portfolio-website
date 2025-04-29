@@ -9,14 +9,14 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 📸 Preview
 
-##Home
+## Home
 ![Portfolio Preview](./assets/Screenshot%202025-04-29%20193736.png)
-##About me
+## About me
 
 
 ![Portfolio Preview](./assets/Screenshot%202025-04-29%20193756.png)
 
-##
+## achievements
 ![Portfolio Preview](./assets/Screenshot%202025-04-29%20193822.png)
 
 

@@ -9,5 +9,5 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 📸 Preview
 
-![Portfolio Preview](assets/Screenshot 2025-04-29 193736.png)  
+![Portfolio Preview](./assets/Screenshot 2025-04-29 193736.png)  
 

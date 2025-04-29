@@ -4,10 +4,10 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 🚀 Live Demo
 
-👉 [Visit the Website](https://your-portfolio-url.com)  
+👉 [Visit the Website](https://ayushshettydev.netlify.app/)  
 
 
 ## 📸 Preview
 
-![Portfolio Preview](./preview.png)  
+![Portfolio Preview](assets/Screenshot 2025-04-29 193736.png)  
 
